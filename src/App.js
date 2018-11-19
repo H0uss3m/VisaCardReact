@@ -7,7 +7,7 @@ class App extends Component {
     return (<div className="creditCard">
       <Header />
       <MainBody />
-    </div>  
+    </div>   
     );
   }
 }
