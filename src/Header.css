@@ -1,0 +1,17 @@
+.creditCardHeader{
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    display: flex;
+    justify-content: flex-end;
+}
+.creditCardNumber p{
+margin-left:25%;
+font-size: 42px; 
+}
+.puce img{
+    margin-left: 5%;
+    width: 20%;
+    border-radius: 30%;
+}
